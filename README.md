@@ -8,5 +8,5 @@ Le projet RFID-NFC est un travail scolaire de recherche sur les failles que comp
 ## Auteurs
 
 - Tristan Dietz
-- Thibaud Cenent
+- Thibaud Cénent
 - Romain Colonna d'Istria
